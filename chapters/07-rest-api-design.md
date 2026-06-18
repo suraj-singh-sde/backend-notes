@@ -127,4 +127,4 @@ GET /users?name=Zack    → 200 OK  { "data": [] }  (a valid search with zero re
 
 ---
 
-← Previous: [« Chapter 6 — Layered Architecture](06-layered-architecture.md) · Back to the [index](../README.md)
+← Previous: [« Chapter 6 — Layered Architecture](06-layered-architecture.md) · Back to the [index](../README.md) · Next: [Chapter 8 — Databases »](08-databases.md)

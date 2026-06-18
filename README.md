@@ -13,8 +13,10 @@ A working set of notes on backend fundamentals, organized one topic per chapter.
 | 5 | [Validations & Transformations](chapters/05-validations-transformations.md) | Where validation runs, the validation pipeline, the four validation types, type casting & normalization, frontend vs. backend |
 | 6 | [Controllers, Services, Repositories, Middlewares & Request Context](chapters/06-layered-architecture.md) | Layered architecture, the controller/service/repository split, middleware chains, request-scoped context |
 | 7 | [Complete REST API Design](chapters/07-rest-api-design.md) | REST history & constraints, route anatomy, idempotency, custom actions, list APIs, status codes, golden rules |
+| 8 | [Mastering Databases with Postgres](chapters/08-databases.md) | Persistence, SQL vs. NoSQL, Postgres types, migrations, data modeling, constraints, transactions & ACID, indexes, SQL injection, N+1, query design |
+| 9 | [Caching](chapters/09-caching.md) | Cache hits/misses, network/hardware/software levels, cache-aside / write-through / write-back, eviction policies, invalidation & stampede pitfalls, Redis use cases |
 
 ## How to read these
 
-- **New to backend?** Read in order 1 → 7; each chapter assumes the ones before it.
+- **New to backend?** Read in order 1 → 9; each chapter assumes the ones before it.
 - **Reference use?** Jump straight to a chapter from the table above.
