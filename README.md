@@ -18,5 +18,3 @@ A working set of notes on backend fundamentals, organized one topic per chapter.
 
 - **New to backend?** Read in order 1 → 7; each chapter assumes the ones before it.
 - **Reference use?** Jump straight to a chapter from the table above.
-
-> Chapters are numbered 1–7 for this file set. (The original combined notes carried over an earlier 5–11 numbering; that has been normalized here.)
