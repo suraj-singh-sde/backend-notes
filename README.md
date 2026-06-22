@@ -14,7 +14,7 @@ A working set of notes on backend fundamentals, organized one topic per chapter.
 | 6 | [Controllers, Services, Repositories, Middlewares & Request Context](chapters/06-layered-architecture.md) | Layered architecture, the controller/service/repository split, middleware chains, request-scoped context |
 | 7 | [Complete REST API Design](chapters/07-rest-api-design.md) | REST history & constraints, route anatomy, idempotency, custom actions, list APIs, status codes, golden rules |
 | 8 | [Mastering Databases with Postgres](chapters/08-databases.md) | Persistence, SQL vs. NoSQL, Postgres types, migrations, data modeling, constraints, transactions & ACID, indexes, SQL injection, N+1, query design |
-| 9 | [Caching](chapters/09-caching.md) | Cache hits/misses, network/hardware/software levels, cache-aside / write-through / write-back, eviction policies, invalidation & stampede pitfalls, Redis use cases |
+| 9 | [Caching](chapters/09-caching.md) | Hit ratio, latency ladder, network/hardware/software levels, cache topologies (L1/L2/near-cache), read & write strategies, eviction policies, invalidation & consistency, production pitfalls (stampede/avalanche/penetration/hot & big keys), operating a cache (HA, persistence, observability), how large companies cache, Redis use cases |
 
 ## How to read these
 
